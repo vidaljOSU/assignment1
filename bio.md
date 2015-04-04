@@ -7,3 +7,7 @@ and steel. No animals).
 
 Programming Background:
 
+I have recently been learning C++ as part of this program with OSU
+
+I teach Java in Pre-AP and AP computer science classes
+
