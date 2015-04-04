@@ -9,3 +9,11 @@ Additionally, I am a huge movie buff.  I like to catch each new blockbuster in t
 
 Programming Background:
 
+I have recently been learning C++ as part of this program with OSU.
+
+I teach Java in Pre-AP and AP computer science classes.
+
+I teach C# as part of Unity 3D for my video game design course.
+
+I have some experience with JavaScript from a web design course I used to teach, but the class
+focused primarily on HTML and CSS.
